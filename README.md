@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @plarrip
-- 👀 I’m interested in Data Science, ESG and motion designs.
-- 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on data science projects, particularly ESG-related and with complex designs.
+- 👀 I’m interested in molding Big Data into Products people enjoy
+- 🌱 I’m currently applying machine learning, data science, data analysis, visualisations and product design
+- 💞️ I’m looking to collaborate on data-related projects
 - 📫 How to reach me: here or thru email plarrip@gmail.com
 
 <!---
