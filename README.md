@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @plarrip
-- 👀 I’m interested in molding Big Data into Products people enjoy
-- 🌱 I’m currently applying machine learning, data science, data analysis, visualisations and product design
-- 💞️ I’m looking to collaborate on data-related projects
-- 📫 How to reach me: here or thru email plarrip@gmail.com
+👋 Hi, I’m Paul Larripa
+👀 Interested in molding Big Data into Products people enjoy
+🌱 Currently applying machine learning, data science, data analysis, visualisations and product design
+💞️ Looking to collaborate on data-related projects
+📫 Reach out here or thru email plarrip@gmail.com
 
 <!---
 plarrip/plarrip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
