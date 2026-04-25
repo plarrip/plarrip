@@ -1,7 +1,9 @@
-👋 Hi, I’m Paul Larripa
-👀 Interested in molding Big Data into Products people enjoy
-🌱 Currently applying machine learning, data science, data analysis, visualisations and product design
-💞️ Looking to collaborate on data-related projects
+👋 Hi, I’m **Paul Larripa**</br></br>
+
+👀 Focused on molding Big Data into Products people enjoy</br>
+🌱 Currently applying machine learning, data science, data analysis, visualisations and product design</br>
+💞️ Looking to collaborate on data-related projects</br></br>
+
 📫 Reach out here or thru email plarrip@gmail.com
 
 <!---
